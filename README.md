@@ -1,6 +1,4 @@
-Here’s a GitHub README for your language translator project:  
 
----
 
 # 🌍 Language Translator  
 
